@@ -54,7 +54,7 @@ echo "${WISDOM[$RANDOM % ${#WISDOM[@]}]}"
 
 ## 📫 Let's Connect
 
-- 🐘 **Mastodon**: @kressnerd@chaos.social
+- 🐘 **Mastodon**: [@kressnerd@chaos.social](https://chaos.social/@kressnerd)
 - 📧 **E-mail**: echo "a3Jlc3NuZXJkQGVtX25vLmp1c3RfbWFzdG9kb24gOykK" | base64 -d
 
 ---
