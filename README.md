@@ -7,21 +7,21 @@
 
 </pre>
 
-# Hey there! 👋 I'm Dan
+# Hey there! I'm Dan
 
 Started coding on a **Sinclair Spectrum+** a long time ago. Now I'm coding at [@adessoSE](https://github.com/adessoSE), where I hexagonalize everything and write tests first.
 
-## 🛠️ What I'm up to
+## What I'm up to
 
-- 🏢 Building scalable enterprise solutions
-- 🔷 Spreading the gospel of **Hexagonal Architecture** and **Domain-Driven Design**
-- 🧪 Writing tests first, code second (TDD is life!)
-- 🏠 Running the family datacenter
-- 🐧 Daily driving **NixOS** (yes, I mention it within 5 minutes)
-- ⛵ Sailing the [Pinguin V14](https://v14pinguin.de), she is over 100 yo
-- 🏕️ Camping you'll find me at the Camp or in a hammock somewhere in the woods
+- Building scalable enterprise solutions
+- Advocating for **Hexagonal Architecture** and **Domain-Driven Design**
+- Writing tests first, code second
+- Running the family datacenter
+- Daily driving **NixOS** (yes, I mention it within 5 minutes)
+- Sailing the [Pinguin V14](https://v14pinguin.de), she is over 100 yo
+- Camping you'll find me at the Camp or in a hammock somewhere in the woods
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -34,7 +34,7 @@ Started coding on a **Sinclair Spectrum+** a long time ago. Now I'm coding at [@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![ZSH](https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 💭 Words of Wisdom
+## Words of Wisdom
 
 > "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 
@@ -52,10 +52,10 @@ WISDOM=(
 echo "${WISDOM[$RANDOM % ${#WISDOM[@]}]}"
 ```
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 🐘 **Mastodon**: [@kressnerd@chaos.social](https://chaos.social/@kressnerd)
-- 📧 **E-mail**: echo "a3Jlc3NuZXJkQGVtX25vLmp1c3RfbWFzdG9kb24gOykK" | base64 -d
+- **Mastodon**: [@kressnerd@chaos.social](https://chaos.social/@kressnerd)
+- **E-mail**: echo "a3Jlc3NuZXJkQGVtX25vLmp1c3RfbWFzdG9kb24gOykK" | base64 -d
 
 ---
 
