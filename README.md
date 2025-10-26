@@ -15,7 +15,7 @@ Started coding on a **Sinclair Spectrum+** a long time ago. Now I'm coding at [@
 
 - Building scalable enterprise solutions
 - Advocating for **Hexagonal Architecture** and **Domain-Driven Design**
-- Writing tests first, code second
+- Practicing test-driven development
 - Running the family datacenter
 - Daily driving **NixOS** (yes, I mention it within 5 minutes)
 - Sailing the [Pinguin V14](https://v14pinguin.de), she is over 100 yo
